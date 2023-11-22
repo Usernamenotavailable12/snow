@@ -8,9 +8,9 @@
   "theme_color": "#cf167d",
   "icons": [
     {
-      "src": "https://images.takeshape.io/ab111b19-bba2-4cbc-88b1-02bc9b72a93a/dev/0f64b6fb-3f28-4beb-82cd-e6a71fccdf5d/32x32%20(2).svg",
+      "src": "https://images.takeshape.io/f2b70d9b-56f9-4d2d-be98-874fcbc02a46/dev/e0a34814-639d-497b-bb2e-01d9c61cf4cf/app-icon.png",
       "sizes": "192x192",
-      "type": "image/svg"
+      "type": "image/png"
     }
   ]
 }
