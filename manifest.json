@@ -2,7 +2,7 @@
   "name": "Ambassadoribet",
   "short_name": "Amb-Bet",
   "description": "ონლაინ კაზინო",
-  "start_url": "/",
+  "start_url": "https://ambassadoribet-com-stg-wl.stg.themill.tech",
   "display": "standalone",
   "background_color": "#3d0235",
   "theme_color": "#cf167d",
@@ -14,3 +14,4 @@
     }
   ]
 }
+
