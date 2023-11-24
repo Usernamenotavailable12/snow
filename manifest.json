@@ -17,5 +17,21 @@
     "wide": {
       "status_bar": "#3d0235"
     }
-  }
+  },
+  "screenshots": [
+    {
+      "src": "images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/b06e8d57-d92e-42b8-9daf-02c2e265c025/Screenshot-1.png",
+      "sizes": "640x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Loyalty Points"
+    },
+    {
+      "src": "images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/d76de515-edc2-4f47-94de-e97fd62035ca/Screenshot-2.png",
+      "sizes": "640x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Live Casino"
+    }
+  ]
 }
